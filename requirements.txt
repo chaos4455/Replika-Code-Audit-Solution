@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Framework para a Interface Gráfica do Usuário (GUI)
+PyQt5
+
+# SDK oficial do Google para interagir com a API do Gemini
+google-generativeai
+
+# Biblioteca para adicionar cores aos textos no terminal (usada para logs)
+colorama
