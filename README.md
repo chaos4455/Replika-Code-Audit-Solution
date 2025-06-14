@@ -110,7 +110,7 @@ CONFIG = {
 
 Com tudo configurado, basta rodar o script:
 ```bash
-python nome_do_seu_script.py
+Replika-Code-Audit-Solution.py
 ```
 
 ---
