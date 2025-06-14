@@ -67,10 +67,10 @@ Para rodar este projeto, você precisará de Python, algumas bibliotecas e uma c
 
 ```bash
 # Clone este repositório
-git clone https://github.com/chaos4455/nome-do-seu-repositorio.git
+git clone https://github.com/chaos4455/Replika-Code-Audit-Solution.git
 
 # Entre no diretório do projeto
-cd nome-do-seu-repositorio
+cdReplika-Code-Audit-Solution
 
 # Instale as dependências (crie um arquivo requirements.txt)
 pip install PyQt5 google-generativeai colorama
